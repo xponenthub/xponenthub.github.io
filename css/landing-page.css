@@ -65,6 +65,7 @@ h6 {
 .intro-message > h1 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-family: "Audiowide", "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 5em;
 }
 
