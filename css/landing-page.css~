@@ -173,32 +173,6 @@ h6 {
     }
 }
 
-#bottom-nav {
-    padding: 50px 0;
-    color: #f8f8f8;
-    background: #262626;
-    background-size: cover;
-}
-#bottom-nav h2 {
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-    font-size: 14px;
-}
-#bottom-nav ul {
-    font-size: 12px;
-    margin-bottom: 0;
-    list-style: none;
-    padding-left: 0;
-    cursor: pointer;
-    cursor: hand;
-}
-#bottom-nav li a {
-    color: #808080;
-}
-#bottom-nav li a:hover {
-    color: white;
-    text-decoration: none;
-}
-
 footer {
     padding: 5px 0;
     color: white;
