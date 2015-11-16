@@ -21,6 +21,21 @@ h6 {
     font-weight: 700;
 }
 
+.navbar {
+    background: #262626;
+    border-bottom-width: 0px;
+}
+/*.navbar-header {
+    height: 96px;
+}*/
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+.navbar-default .navbar-nav > li > a:hover {
+    color: #00A7E1;
+}
+
+
 .lead {
     font-size: 18px;
     font-weight: 400;
@@ -64,6 +79,7 @@ h6 {
     }
 
     .intro-message > h1 {
+        font-family: "Audiowide", "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 3em;
     }
 
