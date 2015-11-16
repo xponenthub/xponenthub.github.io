@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: yuan.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Yuan<br><h3>Emoji Messaging App</h3>
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+Basically Yuan app can notify user's current mood, feeling, and location. For example, you can share your current mood to girlfriend telling her you are home, I'm very happy, or I'm sad now actually. By just a few simple clicks on the app, you can send a Smiley or emoji to your friend, your family, or your love ones. You not only can send to a person but also can broadcast your message to a group of people you have created. ie show a starving icon send to your group of best friends so they call you up for a dinner.
